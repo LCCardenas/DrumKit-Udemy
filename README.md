@@ -1,2 +1,2 @@
 # DrumKit
-Javascript introduction by Udemy
+Javascript introduction by Udemy (sound + animation)
